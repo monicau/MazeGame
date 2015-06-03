@@ -13,7 +13,7 @@ The game starts with the player in an above ground location.  There is a one-way
  - Shoot projectile by clicking left mouse button
 
 ##Play
-[Download for Windows](https://github.com/monicau/MazeGame/blob/master/MazeGame_Windows.exe)
+[Download for Windows](http://monicaung.com/files/MazeGame.zip)
 
 ##Game implementation
 ###Creating the maze
